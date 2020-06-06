@@ -137,6 +137,7 @@ header{
 }
 .form input{
 	border: none;
+	outline: none;
 	background: transparent;
 	width: 80%;
 	font-size: 16px;
@@ -193,12 +194,10 @@ footer{
 	text-decoration: none;
 	color: #626262;
 	margin-right: 24px;
-	padding-bottom: 3px;
-	border-bottom: 1px solid transparent;
 	transition-duration: 0.5s;
 }
 .terms ul li a:hover,.socialmedia ul li a:hover,.socialmedia span:hover{
-	border-bottom: 1px solid #626262; 
+	color: #000; 
 }
 .socialmedia{
 	float: right;
@@ -206,8 +205,6 @@ footer{
 .socialmedia span{
 	font-size: 18px;
 	margin-right: 24px;
-	padding-bottom: 3px;
-	border-bottom: 1px solid transparent;
 	transition-duration: 0.5s;
 }
 /*footer ends*/
