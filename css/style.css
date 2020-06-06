@@ -73,7 +73,6 @@ header{
 	margin: 0 auto;
 	overflow: hidden;
 }
-.about_content{}
 .l_text{
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
@@ -146,13 +145,9 @@ header{
 	border: none;
 	cursor: pointer;
 }
-
 /*newsletter ends*/
 
-/*blog2 starts*/
-/*blog2 ends*/
 /*load starts*/
-.load{}
 .container4{
 	text-align: center;
 }
@@ -215,26 +210,4 @@ footer{
 	border-bottom: 1px solid transparent;
 	transition-duration: 0.5s;
 }
-
 /*footer ends*/
-
-/*
-.socialmedia ul li{
-	list-style-type: none;
-	display: inline-block;
-	padding-right: 24px;
-}
-.socialmedia ul li a{
-	text-decoration: none;
-	color: #626262;
-	transition-duration: 0.5s;
-}
-
-.socialmedia span:hover{
-	color: #000;
-}
-
-.socialmedia ul li a:hover{
-	color: #000; 
-}
-*/
